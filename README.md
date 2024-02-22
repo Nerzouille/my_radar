@@ -1,5 +1,5 @@
 
-# my_hunter - Epitech
+# my_hunter
 
 Deuxième projet graphique, C uniquement avec la librairie CSFML
 
@@ -38,7 +38,7 @@ Downloads/my_radar> make
 ## Usage/Examples
 
 ```bash
-my_hunter> ./my_radar -h
+my_radar> ./my_radar -h
     Introducing the my_radar project, an air traffic simulation.
     Pass file containing aircraft and control tower data as parameter to observe the magic.
     You can press the "S" key to show or hide the sprites.
@@ -46,7 +46,7 @@ my_hunter> ./my_radar -h
 
     You can press "q" at any moment to quit the simulation
 
-my_hunter> ./my_radar map.txt
+my_radar> ./my_radar map.txt
     <lancement du projet>
 ```
 
