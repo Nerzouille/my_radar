@@ -1,5 +1,5 @@
 
-# my_hunter
+# my_radar
 
 Deuxième projet graphique, C uniquement avec la librairie CSFML
 
