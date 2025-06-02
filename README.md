@@ -85,5 +85,5 @@ my_radar> ./my_radar map.txt
 
 ## Authors
 
-- SMOTER Noa ([LinkedIn](https://www.linkedin.com/in/noa-smoter/) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkedIn](https://www.linkedin.com/in/noa-smoter/) / [Portfolio](https://noasmoter.vercel.app/))
 
